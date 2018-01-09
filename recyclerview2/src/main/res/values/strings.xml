@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">recyclerView</string>
+    <string name="action_settings">settings</string>
+    <string name="action_listview">ListView</string>
+    <string name="action_gridview">GridView</string>
+    <string name="action_hor_gridview">HorizontalGridView</string>
+    <string name="action_staggered">StaggeredGridView</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$APPLICATION_HOME_DIR$/gradle/gradle-3.5.1" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/asyctask" />
+            <option value="$PROJECT_DIR$/baseadapter" />
+            <option value="$PROJECT_DIR$/customview" />
+            <option value="$PROJECT_DIR$/fragment" />
+            <option value="$PROJECT_DIR$/images" />
+            <option value="$PROJECT_DIR$/iprogressbar" />
+            <option value="$PROJECT_DIR$/myhandler" />
+            <option value="$PROJECT_DIR$/okhttp3" />
+            <option value="$PROJECT_DIR$/pinnedheaderlistview" />
+            <option value="$PROJECT_DIR$/recycler" />
+            <option value="$PROJECT_DIR$/recyclerview2" />
+            <option value="$PROJECT_DIR$/viewpager" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

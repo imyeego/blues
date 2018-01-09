@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fragment</string>
+    <string name="activity_name">EXPRESS</string>
+    <string name="content">我是内容区域</string>
+</resources>

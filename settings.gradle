@@ -1,0 +1,1 @@
+include ':app', ':baseadapter', ':asyctask', ':viewpager', ':okhttp3', ':fragment', ':iprogressbar', ':recyclerview2', ':recycler', ':myhandler', ':pinnedheaderlistview', ':customview', ':images'

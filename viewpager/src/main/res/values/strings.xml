@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">viewpager</string>
+
+    <string name="message">短信</string>
+    <string name="star">收藏</string>
+    <string name="recommend">推荐</string>
+    <string name="science">科技</string>
+    <string name="entertainment">娱乐</string>
+    <string name="society">社会</string>
+    <string name="economic">经济</string>
+
+</resources>
